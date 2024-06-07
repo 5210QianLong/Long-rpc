@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" external-system-id="Maven" name="rpc-easy:war">
+    <output-path>$PROJECT_DIR$/rpc-easy/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>rpc-easy</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="rpc-easy.war">
+      <element id="artifact" artifact-name="rpc-easy:war exploded" />
+    </root>
+  </artifact>
+</component>

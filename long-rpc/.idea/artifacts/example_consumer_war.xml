@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" external-system-id="Maven" name="example-consumer:war">
+    <output-path>$PROJECT_DIR$/example-consumer/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>example-consumer</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="example-consumer.war">
+      <element id="artifact" artifact-name="example-consumer:war exploded" />
+    </root>
+  </artifact>
+</component>

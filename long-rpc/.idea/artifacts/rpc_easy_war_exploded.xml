@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" external-system-id="Maven" name="rpc-easy:war exploded">
+    <output-path>$PROJECT_DIR$/rpc-easy/target/rpc-easy</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>rpc-easy</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="rpc-easy" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/rpc-easy/target/rpc-easy/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="rpc-easy/web/Web" />
+    </root>
+  </artifact>
+</component>
