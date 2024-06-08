@@ -1,3 +1,5 @@
 
-L	java:S106"+Replace this use of System.out by a logger.(ÜÊöøÿÿÿÿ8·ä›¯ÿ1
-L	java:S106"+Replace this use of System.out by a logger.(Âû¯Ğüÿÿÿÿ8¸ä›¯ÿ1
+‘
+java:S2259"IA "NullPointerException" could be thrown; "userService" is nullable here.(±°Êıÿÿÿÿ8ÿ™Ù°ÿ1J$949ea0ec-cd2e-4f14-8d62-5196373d57c0
+r	java:S106"+Replace this use of System.out by a logger.(ÜÊöøÿÿÿÿ8·ä›¯ÿ1J$f75f7f00-cf8e-421d-b7b2-28e38d0e9208
+r	java:S106"+Replace this use of System.out by a logger.(Âû¯Ğüÿÿÿÿ8¸ä›¯ÿ1J$482c0a99-c3ad-442f-817d-dcd880d50092
