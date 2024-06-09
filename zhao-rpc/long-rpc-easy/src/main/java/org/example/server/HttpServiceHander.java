@@ -32,14 +32,14 @@ public class HttpServiceHander implements Handler<HttpServerRequest> {
             byte[] bytes = body.getBytes();
             RpcRequest rpcRequest = null;
             try {
-                 rpcRequest = serializer.deSerializer(bytes, rpcRequest.getClass());
+                 rpcRequest = serializer.deSerializer(bytes, RpcRequest.class);
             } catch (Exception e) {
                 e.printStackTrace();
             }
             //构造响应结果对象
             RpcResponse rpcResponse = new RpcResponse();
             //如果请求为null，直接返回
-            if (rpcRequest != null) {
+            if (rpcRequest == null) {
                 rpcResponse.setMessage("rpcRequest1 为null");
                 doResponce(request, rpcResponse, serializer);
                 return;

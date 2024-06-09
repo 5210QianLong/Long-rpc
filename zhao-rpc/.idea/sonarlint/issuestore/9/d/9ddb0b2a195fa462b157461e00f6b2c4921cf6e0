@@ -1,5 +1,6 @@
 
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¼óï—8ä±­¯ÿ1J$74fcbfad-261a-4091-b802-0ea62232f8aa
-r	java:S106"+Replace this use of System.out by a logger.(æ¯ÂÙüÿÿÿÿ8ÿ±­¯ÿ1J$d654d043-4659-4f8a-89b9-9b373841384b
-r	java:S106"+Replace this use of System.out by a logger.(ÍŒ®şÿÿÿÿÿ8ÂÆ®¯ÿ1J$8da77dc1-4173-4065-b7dd-669b47d9bc36
-m	java:S106"+Replace this use of System.out by a logger.(ÅØş8€Ï¯¯ÿ1J$c5b1469b-cc58-42d9-98b7-6455163792f4
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¼óï—8¨™ÓÔÿ1J$52f2f134-b250-4eb9-8710-2b42ce758f16
+~	java:S125
+"<This block of commented-out lines of code should be removed.(¢çş¦8µ™ÓÔÿ1J$e50ebba7-f0dc-48a7-87b9-bb9459953214
+r	java:S106"+Replace this use of System.out by a logger.(ÍŒ®şÿÿÿÿÿ8¸™ÓÔÿ1J$88140757-5d64-4890-9b46-03f1ec06b561
+m	java:S106"+Replace this use of System.out by a logger.(ÅØş8¹™ÓÔÿ1J$e6fa0fef-6987-40b7-aa68-0fa84a440081

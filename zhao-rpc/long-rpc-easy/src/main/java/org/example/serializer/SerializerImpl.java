@@ -15,7 +15,6 @@ public class SerializerImpl implements Serializer {
         //ObjectOutputStream 是 Java 中用于将对象序列化到   输出流   的类。
         ObjectOutputStream objectOutputStream = new ObjectOutputStream(byteArrayOutputStream);
         objectOutputStream.writeObject(object);
-        objectOutputStream.flush();
         objectOutputStream.close();
         return byteArrayOutputStream.toByteArray();
     }

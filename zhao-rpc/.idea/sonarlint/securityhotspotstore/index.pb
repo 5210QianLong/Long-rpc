@@ -29,8 +29,6 @@ S
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 s
 Clong-rpc-easy/src/main/java/org/example/register/LocalRegister.java,a\f\afedd981f44ea21c60e8e9a913fff51f9ce7dd03
-g
-7long-rpc-easy/src/main/java/org/example/Serializer.java,d\1\d15bf3d965022b4d4eabfd2635c768e5121b12bd
 r
 Blong-rpc-easy/src/main/java/org/example/serializer/Serializer.java,a\8\a88fba8008c13d1722446e7ad6918d4acf107fe9
 v
@@ -61,3 +59,7 @@ w
 G.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,f\0\f0e0f9cec86fe4b939ae22be5264c758801eb28f
 Å
 Q.idea/sonarlint/securityhotspotstore/a/f/afedd981f44ea21c60e8e9a913fff51f9ce7dd03,0\6\066fce69ca22bedeca7e6fd5b10aacd8df0834f4
+r
+Blong-consumer/src/main/java/org/example/consumer/ServiceProxy.java,1\d\1d8a79a8ac5a4ed99f0eff74158dc92a1cf79e44
+y
+Ilong-consumer/src/main/java/org/example/consumer/ServiceProxyFactory.java,c\c\cce4de89a1357ee1fd7b516b94558c974d23bc53

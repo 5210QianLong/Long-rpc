@@ -15,7 +15,6 @@ import java.io.Serializable;
 @AllArgsConstructor
 @NoArgsConstructor
 public class RpcRequest implements Serializable {
-    private static final long serialVersionUID = 1L;
     /**
      * 服务名称
      */
